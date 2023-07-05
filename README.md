@@ -1,4 +1,4 @@
-<h1 align="center">Fortis Criteris</h1>
+<h1 align="center">PyStackWeek 7.0</h1>
 <h1 align="center">
     <img align="center" src="Images\logo_rounded.png" width="300px;" alt="logo"/>
 </h1>
@@ -15,7 +15,7 @@
 
 ## 🎓 Sobre o projeto
 
-Projeto está sendo desenvolvido na PyStack 7.0, evento feito pela Pythonando.
+Projeto está sendo desenvolvido na PyStackWeek 7.0, evento feito pela Pythonando.
 
 
 ## 📜 Tecnologias 
