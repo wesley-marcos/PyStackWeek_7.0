@@ -23,6 +23,7 @@ Projeto está sendo desenvolvido na PyStackWeek 7.0, evento feito pela Pythonand
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
   [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/)
+  [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]([https://pypi.org/](https://www.djangoproject.com/))
 
 ## 👥 Autor
 <h4 align="left">
