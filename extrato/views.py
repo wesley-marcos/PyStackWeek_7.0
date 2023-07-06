@@ -5,6 +5,7 @@ from django.contrib import messages
 from django.contrib.messages import constants
 
 def novo_valor(request):
+
     if request.method == "GET":
         contas = Conta.objects.all()
         categorias = Categorias.objects.all()
@@ -42,3 +43,6 @@ def novo_valor(request):
         conta.save()
 
         return redirect('/extrato/novo_valor')
+    
+def view_extrato(request):
+    return render(request, 'view_extrato.html')
