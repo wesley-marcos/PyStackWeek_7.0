@@ -3,7 +3,7 @@ from django.db import models
 class Categorias(models.Model):
     categoria = models.CharField(max_length=50)
     essencial = models.BooleanField(default=False)
-    valor_planejado = models.FloatField(default=0)
+    valor_planejado = models.FloatField()
     
     def __str__(self):
         return self.categoria
