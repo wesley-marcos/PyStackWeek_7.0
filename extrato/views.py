@@ -3,6 +3,7 @@ from perfil.models import Categorias, Conta
 from .models import Valores
 from django.contrib import messages
 from django.contrib.messages import constants
+from datetime import datetime
 
 def novo_valor(request):
 
@@ -45,4 +46,6 @@ def novo_valor(request):
         return redirect('/extrato/novo_valor')
     
 def view_extrato(request):
-    return render(request, 'view_extrato.html')
+
+    valores = Valores.objects.filter(data__month=datetime.now().month)
+    return render(request, 'view_extrato.html', {'valores': valores})
