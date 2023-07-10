@@ -1,8 +1,8 @@
-<h1 align="center">PyStackWeek 7.0</h1>
+<h1 align="center">FINAN.CE</h1>
 <h1 align="center">
     <img style="border-radius: 50%; align="center" src="assets\Logo FINAN.CE.png" width="300px;" alt="logo"/>
 </h1>
-<h3 align="center">🛠 Em Desenvolvimento 🛠</h3>
+<h3 align="center">✅ Concluído ✅</h3>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre o projeto</a> •
