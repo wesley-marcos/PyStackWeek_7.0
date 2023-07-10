@@ -20,9 +20,9 @@ class Categorias(models.Model):
     def calcula_percentual_gasto_por_categoria(self):
         
         try:
-            return (self.total_gasto() * 100) / self.valor_planejado
+            return int((self.total_gasto() * 100) / self.valor_planejado)
         except:
-            return 2
+            return 0
         
 
 class Conta(models.Model):
