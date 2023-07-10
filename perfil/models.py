@@ -1,6 +1,5 @@
 from django.db import models
 from datetime import datetime
-from perfil.utils import calcula_total
 
 class Categorias(models.Model):
     categoria = models.CharField(max_length=50)
