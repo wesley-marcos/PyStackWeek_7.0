@@ -15,7 +15,7 @@
 
 ## 🎓 Sobre o projeto
 
-Projeto está sendo desenvolvido na PyStackWeek 7.0, evento feito pela Pythonando. Neste evento, fomos instruídos a criar uma aplicação financeira capaz de ajudar o usuário a gerenciar suas contas. A aplicação tem como funções:
+Projeto foi desenvolvido na PyStackWeek 7.0, evento feito pela Pythonando. Neste evento, fomos instruídos a criar uma aplicação financeira capaz de ajudar o usuário a gerenciar suas contas. A aplicação tem como funções:
 - Tela ***Home*** com o resumo geral das contas.
 - Adição de uma nova conta (podendo ser **entrada** ou **saída**).
 - Definição do planejamento mensal.
@@ -28,7 +28,7 @@ Projeto está sendo desenvolvido na PyStackWeek 7.0, evento feito pela Pythonand
 
 ## 📜 Tecnologias 
 
-As seguintes ferramentas foram utilizadas na construção do projeto:
+A seguinte ferramenta foi utilizada na construção do projeto:
 
   [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/)
 
@@ -46,7 +46,70 @@ As seguintes bibliotecas externas do Python foram usadas na construção do proj
  
 ---
 
+## 🎨 Layout
 
+<p align="center" style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
+    <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img alt="home page" style="margin-right: 10px" src="assets\home.png" width="500px">
+    <img alt="add_conta page" style="margin-right: 10px" src="assets\add_conta.png" width="500px">
+    </p>
+    <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img alt="definir_planejamento page" style="margin-right: 10px" src="assets\definir_planejamento.png" width="500px">
+    <img alt="ver_planejamento page" style="margin-right: 10px" src="assets\ver_planejamento.png" width="500px">
+    </p>
+    <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img alt="categorias page" style="margin-right: 10px" src="assets\categorias.png" width="500px">
+    <img alt="dashboard page" style="margin-right: 10px" src="assets\dashboard.png" width="500px">
+    </p>
+    <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+    <img alt="extrato page" style="margin-right: 10px" src="assets\extrato.png" width="500px">
+</p>
+
+---
+
+## 🚀 Como executar o projeto
+
+Basta seguir o s seguintes passos:
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Python]([https://docs.flutter.dev/get-started/install](https://www.python.org/downloads/)). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+### Linux OS
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/wesley-marcos/PyStackWeek_7.0
+
+# Acesse a pasta do projeto
+
+# Instale as dependências
+$ pip install django
+$ pip install pillow
+
+# Inicializar o projeto:
+$ python3 manage.py runserver
+
+```
+### Windows OS
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/wesley-marcos/PyStackWeek_7.0
+
+# Acesse a pasta do projeto
+
+# Instale as dependências
+$ pip install django
+$ pip install pillow
+
+# Inicializar o projeto:
+$ python manage.py runserver
+
+```
+
+---
 
 ## 👥 Autor
 <h4 align="left">
