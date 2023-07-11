@@ -50,19 +50,19 @@ As seguintes bibliotecas externas do Python foram usadas na construção do proj
 
 <p align="center" style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
     <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    <img alt="home page" style="margin-right: 10px" src="assets\home.png" width="300px">
-    <img alt="add_conta page" style="margin-right: 10px" src="assets\add_conta.png" width="300px">
+    <img alt="home page" style="margin-right: 10px" src="assets\home.png" width="400px">
+    <img alt="add_conta page" style="margin-right: 10px" src="assets\add_conta.png" width="400px">
     </p>
     <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    <img alt="definir_planejamento page" style="margin-right: 10px" src="assets\definir_planejamento.png" width="300px">
-    <img alt="ver_planejamento page" style="margin-right: 10px" src="assets\ver_planejamento.png" width="300px">
+    <img alt="definir_planejamento page" style="margin-right: 10px" src="assets\definir_planejamento.png" width="400px">
+    <img alt="ver_planejamento page" style="margin-right: 10px" src="assets\ver_planejamento.png" width="400px">
     </p>
     <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    <img alt="categorias page" style="margin-right: 10px" src="assets\categorias.png" width="300px">
-    <img alt="dashboard page" style="margin-right: 10px" src="assets\dashboard.png" width="300px">
+    <img alt="categorias page" style="margin-right: 10px" src="assets\categorias.png" width="400px">
+    <img alt="dashboard page" style="margin-right: 10px" src="assets\dashboard.png" width="400px">
     </p>
     <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    <img alt="extrato page" style="margin-right: 10px" src="assets\extrato.png" width="300px">
+    <img alt="extrato page" style="margin-right: 10px" src="assets\extrato.png" width="400px">
 </p>
 
 ---
