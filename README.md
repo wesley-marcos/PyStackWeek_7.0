@@ -107,10 +107,14 @@ $ git clone https://github.com/wesley-marcos/PyStackWeek_7.0
 $ pip install django
 $ pip install pillow
 
+# Baixe e instale o app desse link
+$ https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
+
 # Inicializar o projeto:
 $ python manage.py runserver
 
 ```
+
 
 ---
 
