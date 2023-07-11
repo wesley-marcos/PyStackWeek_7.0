@@ -74,7 +74,10 @@ Basta seguir o s seguintes passos:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Python]([https://docs.flutter.dev/get-started/install](https://www.python.org/downloads/)). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+- [Git](https://git-scm.com)
+- [Python](https://www.python.org/downloads/)
+
+Além disto é bom ter um editor ou IDE para trabalhar com o código, assim como mostrado na aba ***Utilitários***.
 
 ### Linux OS
 ```bash
